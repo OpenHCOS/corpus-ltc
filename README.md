@@ -37,3 +37,9 @@
 - 800万中文词的NLP数据集开源，腾讯AI实验室出品 | 资源 - 知乎 https://zhuanlan.zhihu.com/p/47133426
 - Embedding Dataset -- NLP Center, Tencent AI Lab https://ai.tencent.com/ailab/nlp/embedding.html
 
+## jieba
+
+- fxsjy/jieba: 结巴中文分词 https://github.com/fxsjy/jieba
+- messense/jieba-rs: The Jieba Chinese Word Segmentation Implemented in Rust https://github.com/messense/jieba-rs
+- mingyang91/jieba-wasm: jieba-wasm for Node.js or Browser. https://github.com/mingyang91/jieba-wasm
+- yanyiwu/nodejieba: "结巴"中文分词的Node.js版本 https://github.com/yanyiwu/nodejieba
