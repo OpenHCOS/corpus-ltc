@@ -5,24 +5,19 @@
 
 # 參考資料
 
-- Word2Vec的簡易教學與參數調整指南 | Kaggle 
- https://www.kaggle.com/jerrykuo7727/word2vec
-- Natural Language Processing Corpora - NLP-FOR-HACKERS 
- https://nlpforhackers.io/corpora/
-- niderhoff/nlp-datasets: Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP) 
- https://github.com/niderhoff/nlp-datasets
-- jojonki/NLP-Corpora: List of NLP (Natural Language Processing) Corpora. 
- https://github.com/jojonki/NLP-Corpora
-- 導論 | 開放語料庫：製程與分析 
- https://loperntu.gitbooks.io/copens/dao_lun.html
+- Word2Vec的簡易教學與參數調整指南 | Kaggle  https://www.kaggle.com/jerrykuo7727/word2vec
+- 中文自然語言處理基礎 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天  https://ithelp.ithome.com.tw/articles/10192043
+- ithome_ironman/day16_NLP_Chinese at master · GoatWang/ithome_ironman  https://github.com/GoatWang/ithome_ironman/tree/master/day16_NLP_Chinese
+- Natural Language Processing Corpora - NLP-FOR-HACKERS  https://nlpforhackers.io/corpora/
+- niderhoff/nlp-datasets: Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)  https://github.com/niderhoff/nlp-datasets
+- jojonki/NLP-Corpora: List of NLP (Natural Language Processing) Corpora. https://github.com/jojonki/NLP-Corpora
+- 導論 | 開放語料庫：製程與分析  https://loperntu.gitbooks.io/copens/dao_lun.html
 - crownpku/Awesome-Chinese-NLP: A curated list of resources for Chinese NLP 中文自然语言处理相关资料 https://github.com/crownpku/Awesome-Chinese-NLP
-- NLPL word embeddings repository 
- http://vectors.nlpl.eu/repository/
+- NLPL word embeddings repository http://vectors.nlpl.eu/repository/
 
 ## Wiki
 
-- 以 gensim 訓練中文詞向量 | 雷德麥的藏書閣 
- http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
+- 以 gensim 訓練中文詞向量 | 雷德麥的藏書閣 http://zake7749.github.io/2016/08/28/word2vec-with-gensim/
 
 ## PTT
 
