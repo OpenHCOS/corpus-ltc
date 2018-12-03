@@ -42,8 +42,14 @@
 
 - fxsjy/jieba: 结巴中文分词 https://github.com/fxsjy/jieba
 - cutejaneii/jieba_api: simple jieba api (python) https://github.com/cutejaneii/jieba_api
-- eit/nodejieba-webservice https://github.com/eit/nodejieba-webservice
-- abcamitan/web3BetaInfuraLambda: Deploy DAPP to AWS Lambda using Web3 Beta and Infura https://github.com/abcamitan/web3BetaInfuraLambda
 - messense/jieba-rs: The Jieba Chinese Word Segmentation Implemented in Rust https://github.com/messense/jieba-rs
 - mingyang91/jieba-wasm: jieba-wasm for Node.js or Browser. https://github.com/mingyang91/jieba-wasm
 - yanyiwu/nodejieba: "结巴"中文分词的Node.js版本 https://github.com/yanyiwu/nodejieba
+
+### AWS Lambda and jieba
+
+- eit/nodejieba-webservice https://github.com/eit/nodejieba-webservice
+- DockerでAWS Lambda用のNode.jsネイティブモジュールをビルドする | もばらぶエンジニアブログ https://engineering.mobalab.net/2018/06/06/build-node-native-module-using-docker-for-lambda/
+- issei-m/npm-for-lambda https://github.com/issei-m/npm-for-lambda
+- abcamitan/web3BetaInfuraLambda: Deploy DAPP to AWS Lambda using Web3 Beta and Infura https://github.com/abcamitan/web3BetaInfuraLambda
+
