@@ -52,4 +52,4 @@
 - DockerでAWS Lambda用のNode.jsネイティブモジュールをビルドする | もばらぶエンジニアブログ https://engineering.mobalab.net/2018/06/06/build-node-native-module-using-docker-for-lambda/
 - issei-m/npm-for-lambda https://github.com/issei-m/npm-for-lambda
 - abcamitan/web3BetaInfuraLambda: Deploy DAPP to AWS Lambda using Web3 Beta and Infura https://github.com/abcamitan/web3BetaInfuraLambda
-
+- Search · FROM amazonlinux gcc make https://github.com/search?l=Dockerfile&o=desc&q=FROM+amazonlinux+gcc+make&s=&type=Code
