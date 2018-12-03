@@ -5,6 +5,7 @@
 
 # 參考資料
 
+- word2vec和word embedding有什么区别? - 知乎 https://www.zhihu.com/question/53354714
 - Word2Vec的簡易教學與參數調整指南 | Kaggle  https://www.kaggle.com/jerrykuo7727/word2vec
 - 中文自然語言處理基礎 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天  https://ithelp.ithome.com.tw/articles/10192043
 - ithome_ironman/day16_NLP_Chinese at master · GoatWang/ithome_ironman  https://github.com/GoatWang/ithome_ironman/tree/master/day16_NLP_Chinese
