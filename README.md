@@ -42,6 +42,7 @@
 
 - fxsjy/jieba: 结巴中文分词 https://github.com/fxsjy/jieba
 - cutejaneii/jieba_api: simple jieba api (python) https://github.com/cutejaneii/jieba_api
+- eit/nodejieba-webservice https://github.com/eit/nodejieba-webservice
 - messense/jieba-rs: The Jieba Chinese Word Segmentation Implemented in Rust https://github.com/messense/jieba-rs
 - mingyang91/jieba-wasm: jieba-wasm for Node.js or Browser. https://github.com/mingyang91/jieba-wasm
 - yanyiwu/nodejieba: "结巴"中文分词的Node.js版本 https://github.com/yanyiwu/nodejieba
