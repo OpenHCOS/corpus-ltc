@@ -1,6 +1,6 @@
 # 前言
 
-參加MCPM活動時剛好有個學員提及音樂治療，長照語收集部分可考慮音樂，不過先進行相關音樂AI工具應用收集。
+參加MCPM活動時剛好有學員提及音樂治療，長照語料收集也可考慮收集音樂創作，目前先進行相關音樂AI工具應用收集與整理。
 
 # magenta.js
 
@@ -17,8 +17,13 @@ Piano Scribe可以用網頁直接推論出人聲哼唱後鋼琴播放聲，並�
 
 結婚進行曲 (孟德爾頌) - 維基百科 https://zh.wikipedia.org/wiki/%E7%B5%90%E5%A9%9A%E9%80%B2%E8%A1%8C%E6%9B%B2_(%E5%AD%9F%E5%BE%B7%E7%88%BE%E9%A0%8C)
 
-# colab test
+# Colab notebook (ipynb)
+
+- Make music with Magenta https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb
+- Colab Notebooks https://magenta.tensorflow.org/demos/colab/
 
 ## Hello Magenta
 
 放置在ipynbs裡面，目前版本出現不少DeprecationWarning: The binary mode of fromstring is deprecated待修正。
+
+下載ipynb放置在github來觀看不會保存圖表與撥放MIDI音樂的功能，只能在colab裡面看到與聽到，也就是如果要取得製作內容須另外下載，無法跟ipynb放在同一個檔案裏面。
