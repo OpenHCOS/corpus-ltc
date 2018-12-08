@@ -6,7 +6,8 @@
 
 magenta.js可用來做AI深度學習音樂後處理，下面為測試別人已經做好的範例模型，後續可開發練習相關模型並拓展到長照領域。
 
-magenta-js/music https://github.com/tensorflow/magenta-js/tree/master/music
+- magenta-js/music https://github.com/tensorflow/magenta-js/tree/master/music
+- Making music with magenta.js  https://hello-magenta.glitch.me/
 
 ## Piano Scribe 
 
