@@ -17,3 +17,8 @@ Piano Scribe可以用網頁直接推論出人聲哼唱後鋼琴播放聲，並�
 
 結婚進行曲 (孟德爾頌) - 維基百科 https://zh.wikipedia.org/wiki/%E7%B5%90%E5%A9%9A%E9%80%B2%E8%A1%8C%E6%9B%B2_(%E5%AD%9F%E5%BE%B7%E7%88%BE%E9%A0%8C)
 
+# colab test
+
+## Hello Magenta
+
+放置在ipynbs裡面，目前版本出現不少DeprecationWarning: The binary mode of fromstring is deprecated待修正。
